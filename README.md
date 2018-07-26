@@ -3,6 +3,8 @@ This project contains several files used to demo a Power BI file with simple exa
 
 Demo: https://app.powerbi.com/view?r=eyJrIjoiODkxOWRlNmUtYTI3Yy00ODg2LThmMjctMDUyNjJkZTFmNmYwIiwidCI6IjI1MmExM2NlLWNkODEtNGRhZC04Zjk1LTk2ODM5ZTU0OGIyYiIsImMiOjN9
 
+[a link](https://app.powerbi.com/view?r=eyJrIjoiODkxOWRlNmUtYTI3Yy00ODg2LThmMjctMDUyNjJkZTFmNmYwIiwidCI6IjI1MmExM2NlLWNkODEtNGRhZC04Zjk1LTk2ODM5ZTU0OGIyYiIsImMiOjN9)
+
 Instructions:
 
 1. Download backup file 'OEE.bak' and restore to loca SQL Server instance (Note: database was created in SQL Server version 17).
