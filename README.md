@@ -9,5 +9,5 @@ Instructions:
 1. Download backup file 'OEE.bak' and restore to loca SQL Server instance (Note: database was created in SQL Server version 17).
 2. Install Power BI Desktop or Power BI Server if not already installed.
 3. Download Power BI file 'OEE.pbx' and open in either Power BI Desktop or Power BI Server.
-4. Edit the Datasource Settings and change connection setings to your local SQL Server and database instance.
+4. Edit the Datasource Settings and change connection setting to your local SQL Server and database instance.
 5. Interact with the simple dashboard components and notice which tables are being used as you select a dashbaord component.
